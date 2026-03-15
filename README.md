@@ -37,3 +37,27 @@ Port 22 is OPEN
 Port 80 is OPEN
 Port 443 is OPEN
 ```
+
+## How to Run
+
+1. Install Python on your system.
+
+2. Clone the repository:
+
+```
+git clone https://github.com/Jaugustave1/network-security-scanner.git
+```
+
+3. Navigate into the project folder:
+
+```
+cd network-security-scanner
+```
+
+4. Run the scanner:
+
+```
+python scanner.py
+```
+
+5. Enter the target IP address when prompted.
